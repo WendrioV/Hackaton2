@@ -1,0 +1,19 @@
+/* LOGO*/
+.logo {
+    width: 64px;
+}
+
+/*  BOTOES*/
+a {
+    text-decoration: none;
+}
+
+/* Body */
+body{
+    background-color: #ff6d00;
+}
+
+/* Card */
+.card{
+    border-radius: 15px;
+}
